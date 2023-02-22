@@ -1,0 +1,20 @@
+# test comment
+Show
+	Attributes NoDrop Gem ShowInFilter
+# test comment
+Show
+	Rarity >= Rare
+	Attributes MainHand OffHand Amulets Chest Head
+	HasAffix "Health" "HP Multiplier"
+	PlayEffect cyan
+# test comment
+Show
+	Rarity >= Magic
+	Attributes SimpleGlyph
+	PlayEffect purple
+# test comment
+Show
+	Rarity >= Rare
+	Attributes CompoundGlyph
+	HasAffix "Health" "HP Multiplier"
+	Level >= 10

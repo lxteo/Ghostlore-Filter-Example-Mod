@@ -1,0 +1,14 @@
+Show
+	Attributes NoDrop Gem ShowInFilter
+Show
+	Rarity >= Rare
+	Attributes MainHand OffHand Amulets Chest Head
+	HasAffix "Health" "HP Multiplier"
+Show
+	Rarity >= Magic
+	Attributes SimpleGlyph
+Show
+	Rarity >= Rare
+	Attributes CompoundGlyph
+	HasAffix "Health" "HP Multiplier"
+	Level >= 10

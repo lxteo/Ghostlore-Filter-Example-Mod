@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <name>Ghostlore Filter Example Mod</name>
+  <description>Example filter</description>
+  <activated>true</activated>
+  <publishId>2937054031</publishId>
+</ModInfo>
